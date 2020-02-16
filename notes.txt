@@ -1,0 +1,18 @@
+error handling
+accessibility
+git branching
+debouncing?
+remove console.logs
+
+Steps:
+*Create search box
+*Call API for Spotify
+    *debouncing
+*Implement autocomplete for artist names
+*Get top tracks for artist if clicked on
+
+Components:
+*Search box
+*ArtistList (for autocomplete list of artists rendered)
+*TrackList (to get list of top tracks for an artist)
+*
